@@ -1,0 +1,8 @@
+.container-fluid{
+    background-image: linear-gradient(to top, #6699ff, #0066ff);
+    width: 50%;
+    margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+}
